@@ -1,4 +1,4 @@
-# QA-Automation-
+# Fundamental Web Login Scripts (Selenium + Python/Reqests)
 
 This repo demonstrates QA automation practices(mainly log-in functionality):
 - ✅ UI automation (Selenium + Pytest)
